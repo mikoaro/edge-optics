@@ -1,4 +1,4 @@
-# EdgeOptics - Constellation Metagraph and YOLOv10
+# Constellation Metagraph Meets YOLOv10
 
 ![Architecture](./screenshots/0.png)
 ![Sample-Detection](./screenshots/1.png)
