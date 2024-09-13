@@ -1,4 +1,9 @@
-# EdgeOptics - Constellation Metagraph and YOLOv10
+# EdgeOptics Documentation - Constellation Metagraph and YOLOv10
+
+![Architecture](./screenshots/0.png)
+![Sample-Detection](./screenshots/1.png)
+
+## Solution Overview
 
 This project uses YOLOv10, the Constellation Metagraph network and microservice, and other services to detect critical events (e.g. fire), store the events and notify the stakeholders for action.
 
